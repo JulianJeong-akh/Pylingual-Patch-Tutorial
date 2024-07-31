@@ -5,11 +5,6 @@ PyLingual makes novel use of transformer models to learn new Python bytecode spe
 Further, PyLingual is the first Python decompiler to verify the results of decompilation and localize unknown semantic errors.
 
 
-
-.. note::
-
-   This project is undder active development.
-
 Contents
 --------
 
@@ -21,5 +16,8 @@ Contents
    flowchart
    examples
    
-   
+
+.. note::
+
+   This project is undder active development. 
    
