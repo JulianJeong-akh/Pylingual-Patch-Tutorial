@@ -1,3 +1,6 @@
+Flowchart
+====
+
 Patching Algorithm:
 -------------------
 for code object in errors:
